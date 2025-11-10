@@ -1,0 +1,11 @@
+{
+  "name": "playwright-dialog-bug-repro",
+  "version": "1.0.0",
+  "description": "Bug reproduction for Playwright",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0-alpha-2025-11-10"
+  }
+}
